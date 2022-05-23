@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(3, 26, 3);
+    
+}
+.wrapper{
+    width: 80%;
+    text-align:center;
+    border: 1px solid rgb(21, 19, 19);
+    height: 80vh;
+    margin: 0px auto;
+    background-color: rgb(3, 28, 3);
+    box-shadow: 2px 2px 8px 10px black;
+    margin-top: 20px;
+    
+}
+header{
+    padding: 20px;
+    color: white;
+}
+input{
+    margin: 20px ;
+    padding: 10px;
+    box-shadow: 1px 2px 2px 0px black;
+}
+.choose button{
+    margin: 10px ;
+    padding: 20px ;
+    cursor: grab;
+    margin-top: 50px;
+    
+}
